@@ -1,0 +1,9 @@
+.flex {
+    display: flex;
+    
+}
+
+.flex p {
+    width: 100%;
+}
+
